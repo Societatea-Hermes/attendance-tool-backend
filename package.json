@@ -1,0 +1,21 @@
+{
+  "name": "attendance-tool-backend",
+  "version": "1.0.0",
+  "description": "A template containing the basic files needed for any app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
